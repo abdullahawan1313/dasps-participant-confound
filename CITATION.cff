@@ -13,7 +13,7 @@ authors:
     given-names: Milembolo
     affiliation: "Changchun University of Science and Technology"
 license: MIT
-repository-code: "https://github.com/USERNAME/dasps-participant-confound"
+repository-code: "https://github.com/abdullahawan1313/dasps-participant-confound"
 abstract: >-
   Code, per-segment predictions and analysis scripts showing that segment-level
   cross-validation on the DASPS EEG dataset measures participant identity
