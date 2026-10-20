@@ -1,0 +1,24 @@
+{
+  "task": "binary",
+  "model": "FeedforwardTransformer",
+  "protocol": "loo",
+  "epochs": 100,
+  "n": 4140,
+  "acc": 81.61835748792271,
+  "f1": 0.8198449162143467,
+  "kappa": 0.5857768311442433,
+  "precision": 0.8280453654941855,
+  "recall": 0.8161835748792271,
+  "time_min": 4002.5303816715877,
+  "resumed_from": 975,
+  "confusion_matrix": [
+    [
+      987,
+      273
+    ],
+    [
+      488,
+      2392
+    ]
+  ]
+}

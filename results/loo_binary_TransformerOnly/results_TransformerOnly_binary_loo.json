@@ -1,0 +1,24 @@
+{
+  "task": "binary",
+  "model": "TransformerOnly",
+  "protocol": "loo",
+  "epochs": 100,
+  "n": 4140,
+  "acc": 82.58454106280193,
+  "f1": 0.827315170349467,
+  "kappa": 0.596019391458988,
+  "precision": 0.8294591851085255,
+  "recall": 0.8258454106280193,
+  "time_min": 4688.407089642684,
+  "resumed_from": 0,
+  "confusion_matrix": [
+    [
+      940,
+      320
+    ],
+    [
+      401,
+      2479
+    ]
+  ]
+}

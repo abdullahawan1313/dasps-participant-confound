@@ -1,0 +1,140 @@
+[
+  {
+    "participant": 1,
+    "ham_a": 37,
+    "binary": "Severe",
+    "four_class": "Severe"
+  },
+  {
+    "participant": 2,
+    "ham_a": 30,
+    "binary": "Severe",
+    "four_class": "Severe"
+  },
+  {
+    "participant": 3,
+    "ham_a": 36,
+    "binary": "Severe",
+    "four_class": "Severe"
+  },
+  {
+    "participant": 4,
+    "ham_a": 33,
+    "binary": "Severe",
+    "four_class": "Severe"
+  },
+  {
+    "participant": 5,
+    "ham_a": 36,
+    "binary": "Severe",
+    "four_class": "Severe"
+  },
+  {
+    "participant": 6,
+    "ham_a": 38,
+    "binary": "Severe",
+    "four_class": "Severe"
+  },
+  {
+    "participant": 7,
+    "ham_a": 27,
+    "binary": "Severe",
+    "four_class": "Severe"
+  },
+  {
+    "participant": 8,
+    "ham_a": 19,
+    "binary": "Light",
+    "four_class": "Light"
+  },
+  {
+    "participant": 9,
+    "ham_a": 17,
+    "binary": "Light",
+    "four_class": "Light"
+  },
+  {
+    "participant": 10,
+    "ham_a": 12,
+    "binary": "Light",
+    "four_class": "Normal"
+  },
+  {
+    "participant": 11,
+    "ham_a": 24,
+    "binary": "Severe",
+    "four_class": "Moderate"
+  },
+  {
+    "participant": 12,
+    "ham_a": 35,
+    "binary": "Severe",
+    "four_class": "Severe"
+  },
+  {
+    "participant": 13,
+    "ham_a": 25,
+    "binary": "Severe",
+    "four_class": "Moderate"
+  },
+  {
+    "participant": 14,
+    "ham_a": 7,
+    "binary": "Light",
+    "four_class": "Normal"
+  },
+  {
+    "participant": 15,
+    "ham_a": 18,
+    "binary": "Light",
+    "four_class": "Light"
+  },
+  {
+    "participant": 16,
+    "ham_a": 26,
+    "binary": "Severe",
+    "four_class": "Severe"
+  },
+  {
+    "participant": 17,
+    "ham_a": 29,
+    "binary": "Severe",
+    "four_class": "Severe"
+  },
+  {
+    "participant": 18,
+    "ham_a": 17,
+    "binary": "Light",
+    "four_class": "Light"
+  },
+  {
+    "participant": 19,
+    "ham_a": 44,
+    "binary": "Severe",
+    "four_class": "Severe"
+  },
+  {
+    "participant": 20,
+    "ham_a": 38,
+    "binary": "Severe",
+    "four_class": "Severe"
+  },
+  {
+    "participant": 21,
+    "ham_a": 23,
+    "binary": "Severe",
+    "four_class": "Moderate"
+  },
+  {
+    "participant": 22,
+    "ham_a": 28,
+    "binary": "Severe",
+    "four_class": "Severe"
+  },
+  {
+    "participant": 23,
+    "ham_a": 14,
+    "binary": "Light",
+    "four_class": "Light"
+  }
+]

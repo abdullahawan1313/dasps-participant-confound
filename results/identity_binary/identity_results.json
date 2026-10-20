@@ -1,0 +1,14 @@
+{
+  "LogisticRegression": {
+    "participant_id_acc": 61.26482213438735,
+    "label_via_id_acc": 81.62055335968378,
+    "id_chance": 4.3478260869565215,
+    "label_majority": 69.56521739130434
+  },
+  "RandomForest": {
+    "participant_id_acc": 71.93675889328063,
+    "label_via_id_acc": 86.16600790513834,
+    "id_chance": 4.3478260869565215,
+    "label_majority": 69.56521739130434
+  }
+}
