@@ -1,0 +1,9 @@
+numpy>=1.23
+scipy>=1.9
+scikit-learn>=1.2
+h5py>=3.7
+PyWavelets>=1.4
+matplotlib>=3.6
+# Required only for the neural configurations (train_model.py).
+# Install the build that matches your CUDA version; see https://pytorch.org
+torch>=2.0

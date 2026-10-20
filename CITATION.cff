@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you use this code or the released per-segment predictions, please cite the paper below."
+title: "Participant identity, not anxiety: segment-level partitioning inflates EEG affect classification on the DASPS dataset"
+type: software
+authors:
+  - family-names: Javed
+    given-names: Abdullah
+    affiliation: "Changchun University of Science and Technology"
+  - family-names: Guo
+    given-names: Bin
+    affiliation: "Changchun University of Science and Technology"
+  - family-names: Miantezila Junior
+    given-names: Milembolo
+    affiliation: "Changchun University of Science and Technology"
+license: MIT
+repository-code: "https://github.com/USERNAME/dasps-participant-confound"
+abstract: >-
+  Code, per-segment predictions and analysis scripts showing that segment-level
+  cross-validation on the DASPS EEG dataset measures participant identity
+  rather than anxiety, because a single HAM-A score per participant is
+  inherited by all 180 of that participant's one-second segments.
+keywords:
+  - EEG
+  - anxiety recognition
+  - DASPS
+  - data leakage
+  - participant-independent evaluation
+  - reproducibility
