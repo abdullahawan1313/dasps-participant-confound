@@ -1,0 +1,20 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# data and large run artefacts
+data/
+*.mat
+checkpoint*.npz
+*.tmp.npz
+log_*.txt
+
+# local editor files
+.vscode/
+.idea/
+.DS_Store
+
+# generated figures
+fig/
